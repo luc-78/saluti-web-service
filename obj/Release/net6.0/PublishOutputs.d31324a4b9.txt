@@ -1,0 +1,7 @@
+C:\Users\lucab_c2z4li1\OneDrive\Documenti\corso Azure\saluti-web-service\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.exe
+C:\Users\lucab_c2z4li1\OneDrive\Documenti\corso Azure\saluti-web-service\saluti-web-service\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\lucab_c2z4li1\OneDrive\Documenti\corso Azure\saluti-web-service\saluti-web-service\bin\Release\net6.0\publish\appsettings.json
+C:\Users\lucab_c2z4li1\OneDrive\Documenti\corso Azure\saluti-web-service\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.dll
+C:\Users\lucab_c2z4li1\OneDrive\Documenti\corso Azure\saluti-web-service\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.deps.json
+C:\Users\lucab_c2z4li1\OneDrive\Documenti\corso Azure\saluti-web-service\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.runtimeconfig.json
+C:\Users\lucab_c2z4li1\OneDrive\Documenti\corso Azure\saluti-web-service\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.pdb
